@@ -132,7 +132,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 🐛 **Bug Reports**: [Open an issue](../../issues)
 - 💡 **Feature Requests**: [Start a discussion](../../discussions)
-- 📧 **Contact**: [Your contact method]
+- 📧 **Contact**: joey@whitestagconcepts.com
 
 ---
 
