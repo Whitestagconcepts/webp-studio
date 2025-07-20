@@ -6,6 +6,16 @@ A modern Flutter desktop application for converting between PNG, GIF, and WebP f
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+## 📸 Screenshots
+
+### PNG to Animated WebP Conversion
+![PNG to WebP Animation](assets/ss1.png)
+*Clean drag & drop interface for converting PNG sequences to animated WebP files*
+
+### Static Image to WebP Conversion  
+![Static Image Conversion](assets/ss2.png)
+*Professional conversion tools with quality control and preset options*
+
 ## ✨ Features
 
 ### 🎯 **Core Functionality**
