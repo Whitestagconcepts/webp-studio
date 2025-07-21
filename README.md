@@ -59,7 +59,7 @@ A modern Flutter desktop application for converting between PNG, GIF, and WebP f
 # Prerequisites: Flutter SDK, Visual Studio with C++ tools
 
 # Clone repository
-git clone https://github.com/yourusername/webp-studio.git
+git clone [https://github.com/Whitestagconcepts/webp-studio.git]
 cd webp-studio
 
 # Install dependencies
