@@ -116,7 +116,7 @@ If this tool has been helpful, consider supporting its development:
 
 - ⭐ Star this repository
 - 🐛 Report bugs and request features
-- ☕ [Buy me a coffee]([https://your-donation-link.com](https://www.paypal.com/donate/?hosted_button_id=KQNYW5QMJU82Q)
+- ☕ [Buy me a coffee](https://www.paypal.com/donate/?hosted_button_id=KQNYW5QMJU82Q)
 
 ## 📄 License
 
